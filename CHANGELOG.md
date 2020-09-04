@@ -1,13 +1,3 @@
-## 2.4.3
-- Fix contacts not being returned on v1 embedding
-## 2.4.2
-- Reformat code
-## 2.4.1
-- Fix type in fluttercontactpicker.dart
-- Fix SDK constraints
-## 2.4.0
-- Provide API to fetch whole contact
-- Make picker Android 11 ready
 ## 2.3.2
 - Fix legacy implementation
 ## 2.3.1
